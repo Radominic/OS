@@ -1,0 +1,11 @@
+#SimpleShell.java
+
+1. At first, to compile and run this code, you have to install jdk.
+
+2. If jdk are installed, open terminal and use cd command to enter the directory that 'SimpleShell.java' is stored.
+
+3. If you are ready, input 'javac SimpleShell.java'to compile.
+
+4. then, you will get 'SimpleShell.class' file. Again, in the terminal, input 'java SimpleShell' then you can identify the program run.
+
+5. If you want to know how to use this program, read the source code with kind remark.
